@@ -4,7 +4,7 @@ const chalk = require("chalk");
 //to enable function - true
 //to disable function - false
 //
-global.available = false;
+global.available = true;
 global.autoReadGc = false;
 global.autoReadAll = false;
 global.antitags = false;
@@ -18,10 +18,10 @@ global.statusseen = false;                 //make true to view statuses
 
 
 //
-global.Owner = [""];
-global.OwnerNumber = [""]; 
-global.ownertag = [""]; 
-global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
+global.Owner = ["23490155629"];
+global.OwnerNumber = ["23490155629"]; 
+global.ownertag = ["23490155629"]; 
+global.OwnerName = "𝚇𝚊𝚗𝚍𝚎𝚛𝚛";
 global.BotName = "🐦Makino-md-v2";
 global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
 global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
@@ -34,7 +34,7 @@ global.sessionName = "session";                          //Do not change.
 
 
 //
-global.prefa = ["/"];                                    //Default prefix here.
+global.prefa = ["."];                                    //Default prefix here.
 global.openAiAPI = "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";
 
 
